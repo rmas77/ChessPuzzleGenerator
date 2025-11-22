@@ -2,17 +2,13 @@ ChessPuzzleGenerator
 
 Created by rmas77
 
-ChessPuzzleGenerator is a standalone, single-file web application that generates unique chess puzzles locally on your device. Unlike traditional apps that fetch databases from the cloud, TacticsPro uses an embedded lightweight chess engine to procedurally create, validate, and grade puzzles in real-time without an internet connection.
+ChessPuzzleGenerator is a standalone, single-file web application that generates unique chess puzzles locally on your device. 
 
 Features
 
 100% Offline: No server dependencies or API keys required.
 
 Procedural Generation: Creates infinite unique "Mate in X" puzzles on the fly.
-
-Strict Validation: Ensures every puzzle has exactly one unique solution and adheres to strict difficulty requirements.
-
-Responsive Design: Works seamlessly on desktop and mobile browsers.
 
 Customizable: Supports custom board themes and piece skins via local file upload.
 
